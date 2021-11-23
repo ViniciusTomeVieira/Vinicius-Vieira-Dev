@@ -1,8 +1,9 @@
-# Olá, seja bem vindo ao repositório do meu WebSite!
+# Olá, seja bem-vindo ao repositório do meu WebSite!
 
 Este site foi criado com o objetivo de ser um portifólio dos meus projetos desenvolvidos ao longo do meu tempo como desenvolvedor;
 
 Tecnologias:
+
     Backend  - Javascript(Node.js + Express)
     Database - Database(PostgreSQL + MongoDB)
     Frontend - Vue.js
