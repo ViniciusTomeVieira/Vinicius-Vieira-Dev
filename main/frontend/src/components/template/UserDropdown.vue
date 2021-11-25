@@ -5,7 +5,7 @@
             <div class="user-dropdown-img">
                 <Gravatar :email="user.email" alt="User" />
             </div>
-            <i class="fa fa-angle down"></i>
+            <i class="fa fa-angle-down"></i>
         </div>
         <div class="user-dropdown-content">
             <router-link to="/admin">
